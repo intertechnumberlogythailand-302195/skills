@@ -41,3 +41,4 @@ After installing a skill, restart Codex to pick up new skills.
 ## License
 
 The license of an individual skill can be found directly inside the skill's directory inside the `LICENSE.txt` file.
+ 
